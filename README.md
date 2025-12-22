@@ -1,10 +1,10 @@
-## 👩‍💻 Zeynep İflazoğlu  
+## 👩‍💻 Berkan Suçsuz
 
 🎓 Bilişim Sistemleri ve Teknolojileri  
 🤖 Yapay Zekâ & Yazılım Geliştirme  
 
 📄 **CV:**  
-👉 [CV’mi görüntüle](./CV.pdf)
+👉 [CV’mi görüntüle]()
 <p align="left">
 
 <a href="https://docs.oracle.com/en/java/" target="_blank">
