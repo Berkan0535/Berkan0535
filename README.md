@@ -1,4 +1,4 @@
-# 👩‍💻 Berkan Suçsuz
+#  Berkan Suçsuz
 
 🎓 **Bilişim Sistemleri ve Teknolojileri** 🤖 **Yapay Zekâ & Yazılım Geliştirme**
 
