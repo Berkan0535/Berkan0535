@@ -106,7 +106,14 @@
 ---
 
 <div align="center">
+  <img src="./snake.svg" alt="Retro Arcade Snake Game" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
   <sub>⭐️ <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</sub>
 </div>
+
 
 
