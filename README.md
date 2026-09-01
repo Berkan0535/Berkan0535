@@ -105,6 +105,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Berkan0535/Berkan0535/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+---
+
 <div align="center">
   <sub>⭐️ <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</sub>
 </div>
