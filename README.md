@@ -1,58 +1,104 @@
-#  Berkan Suçsuz
+<div align="center">
 
-🎓 **Bilişim Sistemleri ve Teknolojileri** 🤖 **Yapay Zekâ & Yazılım Geliştirme**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Berkan+Su%C3%A7suz+%F0%9F%91%8B;Bili%C5%9Fim+Sistemleri+%26+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%F0%9F%92%BB;Yapay+Zek%C3%A2+%26+Full-Stack+Mimarileri+%E2%9A%A1" alt="Typing SVG" />
+
+  <p align="center">
+    <strong>🎓 Bilişim Sistemleri ve Teknolojileri &nbsp;|&nbsp; 🤖 Yapay Zekâ & Yazılım Geliştirme</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/berkan-sucsuz" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://berkansucsuz.com.tr" target="_blank">
+      <img src="https://img.shields.io/badge/Website-berkansucsuz.com.tr-10B981?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+    </a>
+    <a href="mailto:berkanyildiz0535@gmail.com">
+      <img src="https://img.shields.io/badge/Email-berkanyildiz0535@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="./cv.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_Özgeçmiş-CV'mi_Görüntüle-8B5CF6?style=for-the-badge" alt="CV" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 📄 CV
-👉 [**CV’mi Görüntüle**](./cv.pdf)
+### 👨‍💻 Hakkımda
+
+- 🔭 Şu anda **büyük ölçekli kod analizi, yapay zekâ (RAG) ve modern web mimarileri** üzerine çalışıyorum.
+- 💡 **Yazılım Geliştirme, Veri Bilimi, Görüntü İşleme ve Derin Öğrenme** alanlarında projeler geliştiriyorum.
+- 📍 **İzmir, Türkiye**
+- ⚡ Sürekli yeni teknolojiler öğrenmeye ve açık kaynak projelere katkıda bulunmaya odaklıyım.
 
 ---
 
-### 💻 Teknolojiler & Diller
+### 💻 Teknolojiler & Yetkinlikler
 
-<p align="left">
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://docs.flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mathworks.com/help/matlab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>🚀 Programlama Dilleri</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,php,dart,cpp" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>🌐 Web & Frameworks</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,flutter,nodejs,tailwind,html,css" alt="Frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>🤖 Yapay Zekâ & Görüntü İşleme</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,matlab" alt="AI & Data" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>🗄️ Veritabanı & Araçlar</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,git,github,linux,postman" alt="Databases & DevOps" />
+    </td>
+  </tr>
+</table>
 
-### 🛠 Araçlar & Kütüphaneler
+---
 
-<p align="left">
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
+### 🔍 Öne Çıkan Projeler
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/Berkan0535/-CodeXray">CodeXray</a></h4>
+      <p><em>Tree-sitter AST, Güvenlik (CVE/Secret), Performans, Çok Katmanlı Mimari Analizi ve Kod İçi Semantik RAG Sohbet Platformu.</em></p>
+      <p><code>FastAPI</code> <code>Next.js 14</code> <code>Tree-sitter</code> <code>pgvector</code> <code>Celery</code> <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://berkansucsuz.com.tr">Kişisel Portfolyo</a></h4>
+      <p><em>Modern, responsive ve dinamik kişisel web sitesi ve proje vitrini.</em></p>
+      <p><code>Web Development</code> <code>UI/UX</code> <code>Interactive Portfolio</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Berkan0535&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="165" alt="GitHub Stats" />
   &nbsp;
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://docs.opencv.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkan0535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkan0535&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐️ <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</sub>
+</div>
+
