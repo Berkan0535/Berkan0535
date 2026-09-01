@@ -13,8 +13,8 @@
     <a href="https://berkansucsuz.com.tr" target="_blank">
       <img src="https://img.shields.io/badge/Website-berkansucsuz.com.tr-10B981?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
     </a>
-    <a href="mailto:berkanyildiz0535@gmail.com">
-      <img src="https://img.shields.io/badge/Email-berkanyildiz0535@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:berkansucsuz95@gmail.com">
+      <img src="https://img.shields.io/badge/Email-berkansucsuz95@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="./cv.pdf" target="_blank">
       <img src="https://img.shields.io/badge/📄_Özgeçmiş-CV'mi_Görüntüle-8B5CF6?style=for-the-badge" alt="CV" />
