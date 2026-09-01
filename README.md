@@ -82,18 +82,31 @@
   </tr>
 </table>
 
+### ⚡ Uzmanlık & Çalışma Alanlarım
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🤖 Yapay Zekâ & RAG</h4>
+      <p>Büyük dil modelleri (LLM), AST tabanlı kod analizi, vektör veritabanları (<code>pgvector</code>) ve semantik arama motorları.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Full-Stack & Asenkron</h4>
+      <p><code>FastAPI</code> ve <code>Next.js 14</code> ile yüksek performanslı, asenkron kuyruk destekli (<code>Celery/Redis</code>) reaktif web mimarileri.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛡️ Temiz Kod & DevOps</h4>
+      <p>SOLID prensipleri, statik güvenlik analizi (CVE/Secret), <code>Docker</code> konteynerizasyon ve otomatik test boru hatları.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 📊 GitHub İstatistikleri
+### 🐍 GitHub Aktivite Akışı (Contribution Snake)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berkan0535&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkan0535&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkan0535&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="./github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -101,4 +114,5 @@
 <div align="center">
   <sub>⭐️ <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</sub>
 </div>
+
 
