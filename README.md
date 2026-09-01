@@ -65,23 +65,6 @@
 
 ---
 
-### 🔍 Öne Çıkan Projeler
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/Berkan0535/-CodeXray">CodeXray</a></h4>
-      <p><em>Tree-sitter AST, Güvenlik (CVE/Secret), Performans, Çok Katmanlı Mimari Analizi ve Kod İçi Semantik RAG Sohbet Platformu.</em></p>
-      <p><code>FastAPI</code> <code>Next.js 14</code> <code>Tree-sitter</code> <code>pgvector</code> <code>Celery</code> <code>Redis</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://berkansucsuz.com.tr">Kişisel Portfolyo</a></h4>
-      <p><em>Modern, responsive ve dinamik kişisel web sitesi ve proje vitrini.</em></p>
-      <p><code>Web Development</code> <code>UI/UX</code> <code>Interactive Portfolio</code></p>
-    </td>
-  </tr>
-</table>
-
 ### ⚡ Uzmanlık & Çalışma Alanlarım
 
 <table>
@@ -103,11 +86,22 @@
 
 ---
 
-### 🐍 GitHub Aktivite Akışı (Contribution Snake)
+### 🔍 Öne Çıkan Projeler
 
-<div align="center">
-  <img src="./github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/Berkan0535/-CodeXray">CodeXray</a></h4>
+      <p><em>Tree-sitter AST, Güvenlik (CVE/Secret), Performans, Çok Katmanlı Mimari Analizi ve Kod İçi Semantik RAG Sohbet Platformu.</em></p>
+      <p><code>FastAPI</code> <code>Next.js 14</code> <code>Tree-sitter</code> <code>pgvector</code> <code>Celery</code> <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://berkansucsuz.com.tr">Kişisel Portfolyo</a></h4>
+      <p><em>Modern, responsive ve dinamik kişisel web sitesi ve proje vitrini.</em></p>
+      <p><code>Web Development</code> <code>UI/UX</code> <code>Interactive Portfolio</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
